@@ -11,7 +11,7 @@ buildscript {
         }
     }
     dependencies {
-        classpath 'com.trimble:infrastructure-gradle-plugins-plugin:1.0.1'
+        classpath 'com.trimble:infrastructure-gradle-plugins-plugin:1.0.2'
     }
 }
 
