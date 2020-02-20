@@ -15,5 +15,6 @@ buildscript {
     }
 }
 
+apply plugin: com.trimble.ttm.mep.plugins.TtmMepArtifactoryPlugin
 apply plugin: com.trimble.ttm.mep.plugins.GitflowPlugin
 apply plugin: com.trimble.ttm.mep.plugins.TtmMepAndroidPlugin
