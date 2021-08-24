@@ -15,7 +15,7 @@ apply plugin: 'com.android.application'
 ...
 ...
 */
-apply from: 'https://raw.githubusercontent.com/geotracsystems/ttm-mep-build-scripts/version/3/ttm_module.gradle'
+apply from: 'https://raw.githubusercontent.com/geotracsystems/ttm-mep-build-scripts/version/15/ttm_module.gradle'
 
 /* There are likely lines like this here:
 android {
